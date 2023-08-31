@@ -1,0 +1,44 @@
+
+
+/* .not-found{
+
+    color: gray;
+
+    font-size: 18px;
+
+    margin: 20px;
+
+} */
+
+​
+
+h3 ,h1{
+
+    margin: 20px;
+
+}
+
+​
+
+.img-notFound{
+
+    float: right;
+
+}
+
+​
+
+.back-home{
+
+background-color: '#EB9235';
+
+}
+
+.back-home:hover{
+
+    background-color: '#EB9235';
+
+    color: white;
+
+}
+
